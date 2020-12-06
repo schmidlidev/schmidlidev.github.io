@@ -12,7 +12,7 @@ I'm a software engineer.
 
 ### What is this?
 
-Software engineers all have blogs now, I think it's become a requirement.
+Software engineers all have blogs now, I guess it's a requirement.
 
 ### Contact me
 
