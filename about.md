@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
 
-### More Information
+### Who am I?
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software engineer.
+
+### What is this?
+
+Software engineers all have blogs now, I think it's become a requirement.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[schmidlidev@gmail.com](mailto:schmidlidev@gmail.com)
